@@ -13,6 +13,22 @@ local Limbs = {
 	"Right Arm",
 	"Left Leg",
 	"Right Leg",
+
+	-- R15 Support
+	"UpperTorso",
+	"LowerTorso",
+	"RightUpperArm",
+	"RightLowerArm",
+	"RightHand",
+	"LeftUpperArm",
+	"LeftLowerArm",
+	"LeftHand",
+	"RightUpperLeg",
+	"RightLowerLeg",
+	"RightFoot",
+	"LeftUpperLeg",
+	"LeftLowerLeg",
+	"LeftFoot",
 }
 
 function onSpawn()
